@@ -1,0 +1,10 @@
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+node_modules/
+.next/
+dist/
+coverage/
